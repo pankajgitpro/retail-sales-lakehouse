@@ -1,10 +1,6 @@
 # retail-sales-lakehouse
 End-to-end data engineering pipeline on Databricks implementing the medallion architecture (bronze → silver → gold) for the AdventureWorks sales dataset, with data quality checks and a dimensional star schema for analytics.
 
-
-# retail-sales-lakehouse
-End-to-end data engineering pipeline on Databricks implementing the medallion architecture (bronze → silver → gold) for the AdventureWorks sales dataset, with data quality checks and a dimensional star schema for analytics.
-
 # Azure Lakehouse Data Engineering Pipeline – AdventureWorks
 
 ## Project Overview
