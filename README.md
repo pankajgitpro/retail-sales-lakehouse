@@ -44,8 +44,8 @@ Star Schema + Data Marts
 Analytics / BI / Reporting
 ```
 
+<img width="1672" height="941" alt="Azure Medallion Pipeline Architecture" src="https://github.com/user-attachments/assets/e1275ab2-9208-4dd5-9cf0-3e46a44b2042" />
 
-<img width="1672" height="941" alt="Azure Medallion Pipeline Architecture" src="https://github.com/user-attachments/assets/81c7ee64-0f28-4ae5-af5a-db94876d2af0" />
 
 ## Technology Stack
 
@@ -206,7 +206,8 @@ Grouped by:
 * Country
 * Product Category
 
-<img width="1536" height="1024" alt="Star Schema Retail Data Map" src="https://github.com/user-attachments/assets/ddad7143-e60d-4a2a-bc58-808cfe1cd942" />
+<img width="1536" height="1024" alt="Star Schema Retail Data Map" src="https://github.com/user-attachments/assets/f28099b5-076c-4ae0-8eb4-74f15004abc1" />
+
 
 
 ### Product Return Rate
