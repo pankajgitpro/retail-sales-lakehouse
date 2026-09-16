@@ -62,6 +62,10 @@ Analytics / BI / Reporting
 
 ### 1. Data Ingestion – Bronze Layer
 
+
+<img width="1216" height="823" alt="Screenshot 2026-09-16 at 8 16 40 PM" src="https://github.com/user-attachments/assets/946eb50d-6a2a-497e-96f3-b1b967222fa7" />
+
+
 Data is first extracted from the source **API using Azure Data Factory** and loaded into **Azure Data Lake Storage Gen2**.
 
 The Bronze layer stores the source data with minimal modification, preserving the raw datasets for downstream processing.
@@ -78,6 +82,10 @@ The project includes datasets for:
 * Sales Territories
 
 Databricks accesses the datasets stored in ADLS Gen2 through **Unity Catalog volumes**, providing governed and centralized access to the lake data.
+
+
+
+<img width="1070" height="690" alt="Screenshot 2026-09-16 at 8 18 10 PM" src="https://github.com/user-attachments/assets/9aa0dd5c-afe1-4a0e-b9d6-970b1cd4bf07" />
 
 ---
 
